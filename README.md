@@ -1,4 +1,4 @@
-# Hi, I’m Frank Lupey 👋
+# Hi, I’m Frank L 👋
 
 I focus on how cybersecurity decisions are made under real-world constraints, not just on the tools involved.
 
