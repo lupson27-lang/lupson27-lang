@@ -35,6 +35,11 @@ Documents visibility limits, safety considerations, and accepted risk
 End-to-end vendor risk assessment, treatment, and executive reporting  
 👉 https://github.com/lupson27-lang/Third-party-risk-management
 
+🔹 **edr-xdr-coverage-and-gaps**  
+EDR/XDR detection coverage, gaps, and governance considerations for enterprise environments  
+👉 https://github.com/lupson27-lang/edr-xdr-coverage-and-gaps
+
+
 ## Background
 - Over 10 years in IT, network operations, and system monitoring
 - Experience in enterprise environments (IBM, LSSi/Volt Delta & more)
