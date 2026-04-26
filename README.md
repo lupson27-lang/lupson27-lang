@@ -19,24 +19,19 @@ My work emphasizes:
 > These projects represent how I think about cybersecurity problems and decisions, not systems I personally operated in production.
 
 ## Featured Projects
-🔹 Risk-Based Cybersecurity Monitoring (IT & OT)
-Aligns monitoring with enterprise risk and governance expectations
+🔹 Risk-Based Cybersecurity Monitoring (IT & OT) Aligns monitoring with enterprise risk and governance expectations
 👉 https://github.com/lupson27-lang/Risk-based-cyber-monitoring
 
-🔹 Incident Response Decision-Making & Governance
-Explores classification, escalation, and business-impact tradeoffs
+🔹 Incident Response Decision-Making & Governance Explores classification, escalation, and business-impact tradeoffs
 👉 https://github.com/lupson27-lang/incident-response-decision-making
 
-🔹 OT / ICS Security Constraints & Monitoring
-Documents visibility limits, safety considerations, and accepted risk
+🔹 OT / ICS Security Constraints & Monitoring Documents visibility limits, safety considerations, and accepted risk
 👉 https://github.com/lupson27-lang/ot-ics-security-governance
 
-🔹 Third-Party Risk Management (TPRM)
-End-to-end vendor risk assessment, treatment, and executive reporting
+🔹 Third-Party Risk Management (TPRM) End-to-end vendor risk assessment, treatment, and executive reporting
 👉 https://github.com/lupson27-lang/Third-party-risk-management
 
-🔹 edr-xdr-coverage-and-gaps
-EDR/XDR detection coverage, gaps, and governance considerations for enterprise environments
+🔹 edr-xdr-coverage-and-gaps EDR/XDR detection coverage, gaps, and governance considerations for enterprise environments
 👉 https://github.com/lupson27-lang/edr-xdr-coverage-and-gaps
 
 🔹 Ransomware Resilience & Incident Response Strategy 
