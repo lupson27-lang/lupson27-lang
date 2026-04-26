@@ -39,6 +39,8 @@ End-to-end vendor risk assessment, treatment, and executive reporting
 EDR/XDR detection coverage, gaps, and governance considerations for enterprise environments  
 👉 https://github.com/lupson27-lang/edr-xdr-coverage-and-gaps
 
+🔹 **Ransomware Resilience & Incident Response Strategy**
+👉 https://github.com/lupson27-lang/ransomware-resilience-strategy
 
 ## Background
 - Over 10 years in IT, network operations, and system monitoring
